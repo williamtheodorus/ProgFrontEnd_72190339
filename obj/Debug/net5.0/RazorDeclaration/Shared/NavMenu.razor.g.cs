@@ -90,7 +90,7 @@ using LatihanBlazor.Shared;
         }
         #pragma warning restore 1998
 #nullable restore
-#line 33 "d:\Semester 5\Pemrograman Front End\Project\LatihanBlazor\Shared\NavMenu.razor"
+#line 38 "d:\Semester 5\Pemrograman Front End\Project\LatihanBlazor\Shared\NavMenu.razor"
        
     private bool collapseNavMenu = true;
 

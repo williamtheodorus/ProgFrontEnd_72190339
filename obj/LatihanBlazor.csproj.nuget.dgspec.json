@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Semester 5\\Pemrograman Front End\\Project\\LatihanBlazor\\LatihanBlazor.csproj": {}
+    "d:\\Semester 5\\Pemrograman Front End\\Project\\LatihanBlazor\\LatihanBlazor.csproj": {}
   },
   "projects": {
-    "D:\\Semester 5\\Pemrograman Front End\\Project\\LatihanBlazor\\LatihanBlazor.csproj": {
+    "d:\\Semester 5\\Pemrograman Front End\\Project\\LatihanBlazor\\LatihanBlazor.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Semester 5\\Pemrograman Front End\\Project\\LatihanBlazor\\LatihanBlazor.csproj",
+        "projectUniqueName": "d:\\Semester 5\\Pemrograman Front End\\Project\\LatihanBlazor\\LatihanBlazor.csproj",
         "projectName": "LatihanBlazor",
-        "projectPath": "D:\\Semester 5\\Pemrograman Front End\\Project\\LatihanBlazor\\LatihanBlazor.csproj",
+        "projectPath": "d:\\Semester 5\\Pemrograman Front End\\Project\\LatihanBlazor\\LatihanBlazor.csproj",
         "packagesPath": "C:\\Users\\willi\\.nuget\\packages\\",
-        "outputPath": "D:\\Semester 5\\Pemrograman Front End\\Project\\LatihanBlazor\\obj\\",
+        "outputPath": "d:\\Semester 5\\Pemrograman Front End\\Project\\LatihanBlazor\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\willi\\AppData\\Roaming\\NuGet\\NuGet.Config"

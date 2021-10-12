@@ -632,3 +632,5 @@ D:\Semester 5\Pemrograman Front End\Project\LatihanBlazor\obj\Debug\net5.0\ref\L
 D:\Semester 5\Pemrograman Front End\Project\LatihanBlazor\obj\Debug\net5.0\LatihanBlazor.pdb
 D:\Semester 5\Pemrograman Front End\Project\LatihanBlazor\obj\Debug\net5.0\RazorDeclaration\Pages\EmployeePage.razor.g.cs
 D:\Semester 5\Pemrograman Front End\Project\LatihanBlazor\obj\Debug\net5.0\Razor\Pages\EmployeePage.razor.g.cs
+D:\Semester 5\Pemrograman Front End\Project\LatihanBlazor\obj\Debug\net5.0\RazorDeclaration\Pages\Calculator.razor.g.cs
+D:\Semester 5\Pemrograman Front End\Project\LatihanBlazor\obj\Debug\net5.0\Razor\Pages\Calculator.razor.g.cs

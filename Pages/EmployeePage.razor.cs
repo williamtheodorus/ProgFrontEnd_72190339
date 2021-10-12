@@ -46,17 +46,6 @@ namespace LatihanBlazor.Pages
                 Depart = new Department{DepartmentId=3,DepartmentName="Manager"},
                 PhotoPath = "images/theo.jpg"
             };
-            Employee e4 = new Employee{
-                EmployeeId=4,
-                FirstName="Dorus",
-                LastName="Zo",
-                Email="zo@gmail.com",
-                DateOfBirth = new DateTime(1999,10,9),
-                Gen = Gender.Male,
-                Depart = new Department{DepartmentId=3,DepartmentName="Manager"},
-                PhotoPath = "images/zo.jpg"
-            };
-
             Employees = new List<Employee>{e1,e2,e3};
         }
     }

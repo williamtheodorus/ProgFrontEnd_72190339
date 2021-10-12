@@ -8,6 +8,39 @@
   "ProjectWorkspaceState": {
     "TagHelpers": [
       {
+        "HashCode": 1632814266,
+        "Kind": "Components.Component",
+        "Name": "LatihanBlazor.Pages.Calculator",
+        "AssemblyName": "LatihanBlazor",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Calculator"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "LatihanBlazor.Pages.Calculator"
+        }
+      },
+      {
+        "HashCode": 776787142,
+        "Kind": "Components.Component",
+        "Name": "LatihanBlazor.Pages.Calculator",
+        "AssemblyName": "LatihanBlazor",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "LatihanBlazor.Pages.Calculator"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "LatihanBlazor.Pages.Calculator",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
         "HashCode": 2121986875,
         "Kind": "Components.Component",
         "Name": "LatihanBlazor.Pages.Counter",
@@ -13069,6 +13102,11 @@
     {
       "FilePath": "d:\\Semester 5\\Pemrograman Front End\\Project\\LatihanBlazor\\Shared\\MainLayout.razor",
       "TargetPath": "Shared\\MainLayout.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "d:\\Semester 5\\Pemrograman Front End\\Project\\LatihanBlazor\\Pages\\Calculator.razor",
+      "TargetPath": "Pages\\Calculator.razor",
       "FileKind": "component"
     },
     {

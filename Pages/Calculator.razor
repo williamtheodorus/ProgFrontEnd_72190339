@@ -1,0 +1,16 @@
+@page "/calculator"
+
+<h3>Calculator</h3>
+<br>
+<ul> Masukkan Angka 1 : <input type="textbox" placeholder= "Masukkan Angka" @bind="@angka1"/></ul>
+<ul> Masukkan Angka 2 : <input type="textbox" placeholder= "Masukkan Angka" @bind="@angka2"/></ul>
+<ul> Hasil: <input readonly @bind="hasil"/></ul>
+<ul>Operator:
+  <input type="radio" name="radiobutton" @onclick="()=>cal.ope=1"/> Bagi
+  <input type="radio" name="radiobutton" @onclick="()=>cal.ope=2"/> Kali
+  <input type="radio" name="radiobutton" @onclick="()=>cal.ope=3"/> Jumlah
+  <input type="radio" name="radiobutton" @onclick="()=>cal.ope=4"/> Kurang
+</ul>
+<ul>
+  <button type="button" class="btn btn-primary" @onclick="Hitung">Hitung</button>
+</ul>
