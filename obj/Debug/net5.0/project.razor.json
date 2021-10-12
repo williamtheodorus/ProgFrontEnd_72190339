@@ -41,7 +41,7 @@
         }
       },
       {
-        "HashCode": 2121986875,
+        "HashCode": 22793948,
         "Kind": "Components.Component",
         "Name": "LatihanBlazor.Pages.Counter",
         "AssemblyName": "LatihanBlazor",
@@ -51,13 +51,23 @@
             "TagName": "Counter"
           }
         ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "IncrementAmount",
+            "TypeName": "System.Int32",
+            "Metadata": {
+              "Common.PropertyName": "IncrementAmount"
+            }
+          }
+        ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
           "Common.TypeName": "LatihanBlazor.Pages.Counter"
         }
       },
       {
-        "HashCode": 574524141,
+        "HashCode": 1247583376,
         "Kind": "Components.Component",
         "Name": "LatihanBlazor.Pages.Counter",
         "AssemblyName": "LatihanBlazor",
@@ -65,6 +75,16 @@
         "TagMatchingRules": [
           {
             "TagName": "LatihanBlazor.Pages.Counter"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "IncrementAmount",
+            "TypeName": "System.Int32",
+            "Metadata": {
+              "Common.PropertyName": "IncrementAmount"
+            }
           }
         ],
         "Metadata": {
@@ -103,6 +123,39 @@
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
           "Common.TypeName": "LatihanBlazor.Pages.EmployeePage",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": -2008676374,
+        "Kind": "Components.Component",
+        "Name": "LatihanBlazor.Pages.Todo",
+        "AssemblyName": "LatihanBlazor",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Todo"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "LatihanBlazor.Pages.Todo"
+        }
+      },
+      {
+        "HashCode": -1776837423,
+        "Kind": "Components.Component",
+        "Name": "LatihanBlazor.Pages.Todo",
+        "AssemblyName": "LatihanBlazor",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "LatihanBlazor.Pages.Todo"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "LatihanBlazor.Pages.Todo",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
@@ -13087,6 +13140,11 @@
     {
       "FilePath": "d:\\Semester 5\\Pemrograman Front End\\Project\\LatihanBlazor\\Pages\\Index.razor",
       "TargetPath": "Pages\\Index.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "d:\\Semester 5\\Pemrograman Front End\\Project\\LatihanBlazor\\Pages\\Todo.razor",
+      "TargetPath": "Pages\\Todo.razor",
       "FileKind": "component"
     },
     {
